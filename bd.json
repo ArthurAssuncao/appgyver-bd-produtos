@@ -9,6 +9,11 @@
       "id":2,
       "nome":"Galaxy S23",
       "descricao":"Smartphone fabricado pela Samsung."
+    },
+    {
+      "id":3,
+      "nome":"Xiaomi PoCo",
+      "descricao":"Smartphone fabricado pela Xiaomi."
     }
   ]
 }
