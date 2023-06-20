@@ -1,0 +1,14 @@
+{
+  "produtos":[
+    {
+      "id":1,
+      "nome":"iPhone",
+      "descricao":"Smartphone fabricado pela Apple."
+    },
+    {
+      "id":2,
+      "nome":"Galaxy S23",
+      "descricao":"Smartphone fabricado pela Samsung."
+    }
+  ]
+}
